@@ -1,0 +1,1 @@
+# Multilingual-PDF-QA-System-with-Whisper-and-Bedrock
